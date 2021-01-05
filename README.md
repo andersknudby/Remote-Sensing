@@ -1,1 +1,1 @@
-# GEG3105
+# Google Colab notebooks for Remote Sensing
